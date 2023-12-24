@@ -11,3 +11,18 @@
 
 ### splash page:
 <img src="https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/splash.jpeg" alt="Descrição da Imagem" height="500" />
+
+### tela de livros dipostos para leitura:
+<img src="https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/livros.jpeg" alt="Descrição da Imagem" height="500" />
+
+### tela de livros dipostos para leitura na horizontal:
+<img src="https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/horizontal.jpeg" alt="Descrição da Imagem" height="500" />
+
+### livro favoritado:
+<img src="https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/favoritado.jpeg" alt="Descrição da Imagem" height="500" />
+
+### tela de livros favoritos:
+<img src="https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/favoritos.jpeg" alt="Descrição da Imagem" height="500" />
+
+### livro após ser tocado na capa e aberto usando a biblioteca vocsy_epub_viewer:
+<img src="https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/ebook.jpeg" alt="Descrição da Imagem" height="500" />

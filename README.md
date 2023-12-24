@@ -10,4 +10,4 @@
 ## imagens das telas do app:
 
 ### splash page:
-![splash page](https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/splash.jpeg)
+<img src="https://github.com/Jul10c3s4/leitor_ebooks/blob/main/assets/images/splash.jpeg" alt="Descrição da Imagem" height="200" />

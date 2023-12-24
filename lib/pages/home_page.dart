@@ -28,7 +28,6 @@ class _HomePageState extends State<HomePage> {
   List<Livro> livros = <Livro>[];
   List<Livro> livrosExibidos = <Livro>[];
   LivrosRepository livrosRepository = LivrosRepository();
-  final platform = const MethodChannel('my_channel');
   bool loading = false;
   Dio dio = Dio();
   String filePath = "";
@@ -231,7 +230,6 @@ class _HomePageState extends State<HomePage> {
       nightMode: true,
     );
 
-    // get current locator
     VocsyEpub.locatorStream.listen((locator) {
       print('LOCATOR: $locator');
     });
